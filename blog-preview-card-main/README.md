@@ -10,7 +10,6 @@ Live Site
 Built With
 
 - HTML5
-- CSS3
 - Flexbox
 - Google Fonts (Outfit)
 - GitHub Pages for deployment
