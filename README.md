@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 This repository contains three frontend development projects completed as part of lab assignments and practice challenges.
@@ -23,8 +24,20 @@ Refactored using **Bootstrap 5** for layout, typography, and responsiveness.
 
 ---
 
-## Created by
+ Space Tourism Homepage – Bootstrap Refactor
 
-**Preeti Sawant**  
-- GitHub: [@preetisawant1911](https://github.com/preetisawant1911)  
-- Frontend Mentor: [@preetisawant1911](https://www.frontendmentor.io/profile/preetisawant1911)
+This is a refactored version of the Space Tourism homepage from the [Frontend Mentor Challenge] The layout and styling have been updated using Bootstrap 5 utility classes and components.
+
+ Built With
+
+- HTML5
+- Bootstrap 5
+- Google Fonts (Barlow, Bellefair)
+
+ Features
+
+- Responsive layout using Bootstrap grid system
+- Centered hero section with background image
+- Typography styled with Bootstrap utilities
+- No external CSS.
+>>>>>>> space-tourism/main
