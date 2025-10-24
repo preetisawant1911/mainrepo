@@ -1,0 +1,54 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
+
+:root {
+  --yellow: #f4d04e;
+  --white: #ffffff;
+  --gray: #808080;
+  --black: #111111;
+  --font: 'Outfit', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font);
+  background-color: var(--yellow);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: var(--white);
+  border-radius: 20px;
+  padding: 24px;
+  max-width: 350px;
+  box-shadow: 8px 8px 0 var(--black);
+  transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 12px 12px 0 var(--black);
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.category {
+  background-color: var(--yellow);
+  color: var(--black);
+  font-weight: 700;
+  font-size: 0.75rem;
+  padding: 4px 12px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom:
