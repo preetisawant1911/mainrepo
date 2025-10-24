@@ -13,7 +13,7 @@ Refactored to use Bootstrap’s card layout, typography utilities, and responsiv
 
 # qr-code-component-main  
 A simple QR code component layout challenge with clean design and mobile responsiveness.  
-Built using **HTML**, **CSS**, and **Flexbox**.
+Built using **HTML**, and **Flexbox**.
 
 
 ---
