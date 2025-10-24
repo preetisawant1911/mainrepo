@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 
 
 This repository contains three frontend development projects completed as part of lab assignments and practice challenges.
 
-##  Projects Included
+# Projects Included
 
 #  blog-preview-card-main  
 A responsive blog preview card component built using **HTML** and **Bootstrap 5**.  
