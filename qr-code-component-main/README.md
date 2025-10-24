@@ -30,7 +30,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Built With
 
 - HTML5
-- CSS3
 - Flexbox
 - Mobile-first workflow
 
